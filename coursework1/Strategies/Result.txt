@@ -1,0 +1,5 @@
+Prisoner's 0 average years after 200 iterations: 317
+Prisoner's 1 average years after 200 iterations: 317
+Prisoner's 2 average years after 200 iterations: 685
+Prisoner's 3 average years after 200 iterations: 504
+Prisoner's 4 average years after 200 iterations: 506
